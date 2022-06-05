@@ -1,0 +1,14 @@
+-> /search
+
+q = query
+lang = language
+countries = country in uppercase shorthand
+topic = Accepted values [
+         news, sport, tech, world,
+         finance, politics, business,
+         economics, entertainment, beauty,
+         travel, music, food, science, gaming, energy
+        ]
+short_by = date | rank
+page_size = how many articles in a page
+page = current page number
