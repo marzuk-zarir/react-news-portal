@@ -1,5 +1,5 @@
 # React News Portal
 
-Live: reactnewsportal.surge.sh
+Live: https://reactnewsportal.surge.sh
 
 ### Note: 1 bug exist :(
