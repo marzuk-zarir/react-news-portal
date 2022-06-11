@@ -12,3 +12,5 @@ topic = Accepted values [
 short_by = date | rank
 page_size = how many articles in a page
 page = current page number
+
+-> /latest_headlines
